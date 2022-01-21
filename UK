@@ -13,7 +13,7 @@ http://ptv.is:2095/t9m28tPG/j4PdbhNF/11348?checkedby:iptvcat.com
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/40696?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-two-wales-uk.png" group-title="Undefined",BBC Two Wales HD UK
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/36860?checkedby:iptvcat.com
-#EXTINF:0 <channel update="i" site="tvguide.co.uk" site_id="67" xmltv_id="BBC Parliament">BBC Parliament</channel> tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-parliament-uk.png" group-title="Undefined",BBC Parliament UK
+#EXTINF:0 channel update="i" site="tvguide.co.uk" site_id="67" xmltv_id="BBC Parliament" BBC Parliament tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-parliament-uk.png" group-title="Undefined",BBC Parliament UK
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/18628?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-four-uk.png" group-title="Undefined",BBC Four FHD UK
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/11354?checkedby:iptvcat.com
