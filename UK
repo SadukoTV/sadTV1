@@ -97,3 +97,49 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/677220?checkedby:iptvcat.com
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=151&deviceId=5b4fc274694c027be6ed3eea&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Syfy (East)
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1907?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-action-uk.png" group-title="Undefined",Sky Cinema Action FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9840?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="Undefined",Sky Cinema Animation FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117780?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="Undefined",Sky Cinema Comedy FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9837?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sky_Cinema_Disney_-_Logo_2017.svg/1200px-Sky_Cinema_Disney_-_Logo_2017.svg.png" group-title="Undefined",Sky Cinema Disney FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9831?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="Undefined",Sky Cinema Drama FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9836?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-family-uk.png" group-title="Undefined",Sky Cinema Family FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9838?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="Undefined",Sky Cinema Greats FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9833?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="Undefined",Sky Cinema Premier FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9841?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="Undefined",Sky Cinema SciFi & Horror FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9834?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="Undefined",Sky Cinema Thriller FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9835?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-news-uk.png" group-title="News",Sky News UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10764?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-one-uk.png" group-title="Undefined",Sky One FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/25034?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-one-uk.png" group-title="Undefined",Sky One HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117772?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-action-uk.png" group-title="Sport",Sky Sports Action FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37071?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="Sport",Sky Sports Cricket UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127991?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Sport",Sky Sports F1 FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37068?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Sport",Sky Sports Football FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11658?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Sport",Sky Sports Football UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127989?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Sport",Sky Sports Golf FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37070?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-main-event-hz-uk.png" group-title="Sport",Sky Sports Main Event FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-nfl-hz-uk.png" group-title="Sport",Sky Sports NFL HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/85893?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-news-uk.png" group-title="Sport",Sky Sports News HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-racing-uk.png" group-title="Sport",Sky Sports Racing HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37959?checkedby:iptvcat.com
