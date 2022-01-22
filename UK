@@ -39,7 +39,7 @@ http://ptv.is:2095/t9m28tPG/j4PdbhNF/22815?checkedby:iptvcat.com
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/87275?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-2-uk.png" group-title="Undefined",ITV 2 FHD UK
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/11113?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-2-uk.png" group-title="Undefined",ITV 2 UK
+#EXTINF:0 tvg-id="185" tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-2-uk.png" group-title="Undefined",ITV 2 UK
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/158532?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-2-plus-uk.png" group-title="Undefined",ITV 2 +1 UK
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/131773?checkedby:iptvcat.com
