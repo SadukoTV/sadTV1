@@ -167,3 +167,9 @@ http://ptv.is:2095/t9m28tPG/j4PdbhNF/11364?checkedby:iptvcat.com
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/38072?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/premier-sports-2-uk.png" group-title="Sport",Premier Sports 2 HD UK
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/39095?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6569.1489429349.png" group-title="Radio",Heart 80's
+http://media-ice.musicradio.com/Heart80sMP3
+#EXTINF:0 tvg-country="GB" tvg-logo="http://assets.stickpng.com/images/5e8ced33664eae000408547c.png" group-title="Radio",Heart Radio
+http://media-ice.musicradio.com/HeartUKMP3
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.radio.es/images/broadcasts/37/f2/10809/3/c300.png" group-title="Radio",Absolute Radio 70's
+http://ais.absoluteradio.co.uk/absolute70s.aac
