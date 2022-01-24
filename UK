@@ -167,5 +167,5 @@ http://ptv.is:2095/t9m28tPG/j4PdbhNF/11364?checkedby:iptvcat.com
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/38072?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/premier-sports-2-uk.png" group-title="Sport",Premier Sports 2 HD UK
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/39095?checkedby:iptvcat.com
-#EXTINF:-1,BBC - Radio 1
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_one/format/pls.pls
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio",BBC - Radio 1
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
