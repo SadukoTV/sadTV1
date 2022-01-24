@@ -168,3 +168,4 @@ http://ptv.is:2095/t9m28tPG/j4PdbhNF/38072?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/premier-sports-2-uk.png" group-title="Sport",Premier Sports 2 HD UK
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/39095?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="BBC Radio 1Xtra" tvg-logo="radio_bbc1xtra.png" group-title="radio" radio="true",BBC Radio 1 Xtra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
