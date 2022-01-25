@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News2",BBC News
 http://51.154.28.81:2052/play/a0ao?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News FHD UK
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/24775?checkedby:iptvcat.com
