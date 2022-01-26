@@ -69,89 +69,167 @@ http://45.153.35.221:8000/play/a02j/index.m3u8?checkedby:iptvcat.com
 http://45.153.35.221:8000/play/a02l/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",S4C
 http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20260?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67056?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67057?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67059?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS NEWS
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67091?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Atlantic HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18178?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Action HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/16338?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Drama FHD
-http://sharkiptvpro.xyz:80/7619bs8/nba0928/358421?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Drama HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/16336?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Select HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/16334?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Select HD
-http://sharkiptvpro.xyz:80/7619bs8/nba0928/358432?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",Sky News
-http://51.154.28.81:2052/play/a08w?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Action HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18158?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Arena HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20445?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Box Office HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/32382?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Cricket HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Cricket SD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54487?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports F1 SD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54866?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Football HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20444?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Golf SD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54864?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Main Event HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18161?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Mix HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20239?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Premier League FHD
-http://sharkiptvpro.xyz:80/7619bs8/nba0928/358461?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Premier League HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18160?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Premier League HD
-http://sharkiptvpro.xyz:80/7619bs8/nba0928/358462?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Premier league SD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/50401?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky1 SD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/24975?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Syfy HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/16617?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Syfy HD*
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22092?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",The Box
-http://45.153.35.221:8000/play/a0fl/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67062?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="Undefined",BBC News
+http://51.154.28.81:2052/play/a0ao?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24775?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://download.logo.wine/logo/BBC_Entertainment/BBC_Entertainment-Logo.wine.png" group-title="Undefined",BBC Entertainment UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37052?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-one-uk.png" group-title="Undefined",BBC One UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68593?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-one-uk.png" group-title="Undefined",BBC One UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68602?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-two-uk.png" group-title="Undefined",BBC Two FHD UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68617?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-two-uk.png" group-title="Undefined",BBC Two
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68594?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-parliament-uk.png" group-title="Undefined",BBC Parliament UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68616?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC Three HD
+http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/19973?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-four-uk.png" group-title="Undefined",BBC Four FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11354?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-cbbc-uk.png" group-title="Undefined",CBBC FHD UK
+http://45.153.35.221:8000/play/a01c/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-cbbc-uk.png" group-title="Undefined",CBBC UK
+http://45.153.35.221:8000/play/a01c/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-cbeebies-uk.png" group-title="Undefined",CBeebies FHD UK
+http://45.153.35.221:8000/play/a00b/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-cbeebies-uk.png" group-title="Undefined",CBeebies UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/20938?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/channel-4-uk.png" group-title="Undefined",Channel 4 FHD UK
+http://51.154.28.81:2052/play/a02w?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/channel-4-uk.png" group-title="Undefined",Channel 4 UK
+http://51.154.28.81:2052/play/a02v?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/channel-5-uk.png" group-title="Undefined",Channel 5 UK
+http://45.153.35.221:8000/play/a00u/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-uk.png" group-title="Undefined",ITV 1 UK
+http://45.153.35.221:8000/play/a00i/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-uk.png" group-title="Undefined",ITV 1 FHD UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68534?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-plus-uk.png" group-title="Undefined",ITV 1 +1 UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68589?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-2-uk.png" group-title="Undefined",ITV 2 FHD UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68535?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-2-uk.png" group-title="Undefined",ITV 2 UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68535?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-2-plus-uk.png" group-title="Undefined",ITV 2 +1 UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68590?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-3-uk.png" group-title="Undefined",ITV 3 FHD UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68534?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-3-uk.png" group-title="Undefined",ITV 3 UK
+http://45.153.35.221:8000/play/a00q/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-3-plus-uk.png" group-title="Undefined",ITV 3 +1 UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68591?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/film-4-uk.png" group-title="Undefined",Film4 UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/25036?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/s4c-uk.png" group-title="Undefined",S4C UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/38503?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/s4c-uk.png" group-title="Undefined",S4C HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/25942?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/5-select-uk.png" group-title="Undefined",5 Select UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/25079?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/animal-planet-uk.png" group-title="Undefined",Animal Planet UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/14590?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/dave-uk.png" group-title="Undefined",Dave FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/38871?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/discovery-channel-uk.png" group-title="Undefined",Discovery Channel FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11369?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/discovery-channel-uk.png" group-title="Undefined",Disney Channel FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/20937?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/discovery-history-uk.png" group-title="Undefined",Discovery History UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11370?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/disney-xd-uk.png" group-title="Undefined",Disney XD HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/36463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/paramount-network-uk.png" group-title="Undefined",Paramount Network HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/39797?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/kiss-tv-uk.png" group-title="Undefined",KISS TV UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/85937?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-classic-uk.png" group-title="Undefined",MTV Classic UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/158524?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-hits-uk.png" group-title="Undefined",MTV Hits UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/158525?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/virgin-media-one-uk.png" group-title="Undefined",Virgin Media One HD UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68554?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/virgin-media-two-uk.png" group-title="Undefined",Virgin Media Two HD UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68565?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/virgin-media-three-uk.png" group-title="Undefined",Virgin Media Three HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/158499?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sony-entertainment-television-uk.png" group-title="Undefined",Sony TV FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117741?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/spotlight-uk.png" group-title="Undefined",Spotlight UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/158523?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/the-box-uk.png" group-title="Undefined",The Box UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/25073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/syfy-uk.png" group-title="Undefined",SYFY
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67068?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/syfy-uk.png" group-title="Undefined",Syfy
+http://premiumiptv.tk:80/pq9WhnYz5j/ECooLFHXF1/3088?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-action-uk.png" group-title="Undefined",Sky Cinema Action FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117779?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="Undefined",Sky Cinema Animation FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/117780?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="Undefined",Sky Cinema Comedy FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9837?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sky_Cinema_Disney_-_Logo_2017.svg/1200px-Sky_Cinema_Disney_-_Logo_2017.svg.png" group-title="Undefined",Sky Cinema Disney FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9831?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="Undefined",Sky Cinema Drama FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9836?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-family-uk.png" group-title="Undefined",Sky Cinema Family FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9838?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="Undefined",Sky Cinema Greats FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9833?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="Undefined",Sky Cinema Premier FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9841?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="Undefined",Sky Cinema SciFi & Horror FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9834?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="Undefined",Sky Cinema Thriller FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9835?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-news-uk.png" group-title="News",Sky News UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10764?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-showcase-icon-uk.png" group-title="Undefined",Sky Showcase
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/25034?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-action-uk.png" group-title="Sport",Sky Sports Action FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37071?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="Sport",Sky Sports Cricket UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127991?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Sport",Sky Sports F1 FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37068?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Sport",Sky Sports Football FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11658?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Sport",Sky Sports Football UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/127989?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Sport",Sky Sports Golf FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37070?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-main-event-hz-uk.png" group-title="Sport",Sky Sports Main Event FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-nfl-hz-uk.png" group-title="Sport",Sky Sports NFL HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/85893?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-news-uk.png" group-title="Sport",Sky Sports News HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-racing-uk.png" group-title="Sport",Sky Sports Racing HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/37959?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="Sport",BT Sports 1 FHD UK
+http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134130?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="Sport",BT Sports 1 HD UK
+http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134133?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="Sport",BT Sports 2 HD UK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="Sport",BT Sports 2 UK
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67063?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="Sport",BT Sports 3 FHD UK
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67075?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png" group-title="Sport",BT Sport ESPN FHD
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/69599?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png" group-title="Sport",BT Sport ESPN HD
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67076?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 FHD 50FPS
-http://sharkiptvpro.xyz:80/7619bs8/nba0928/358370?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18191?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 SD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/36225?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2 SD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18190?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 FHD 50FPS
-http://sharkiptvpro.xyz:80/7619bs8/nba0928/358372?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18208?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 SD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/41228?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN HD
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18186?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 2
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22679?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 4
-http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22682?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/premier-sports-1-uk.png" group-title="Sport",Premier Sports 1 FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/39094?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/premier-sports-1-uk.png" group-title="Sport",Premier Sports 1 HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11364?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/premier-sports-2-uk.png" group-title="Sport",Premier Sports 2 FHD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/38072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/premier-sports-2-uk.png" group-title="Sport",Premier Sports 2 HD UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/39095?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Justice UK
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/85936?checkedby:iptvcat.com
